@@ -1,2 +1,2 @@
 VISION_KEY_PATH = ''
-BOT_KEY = ''
+BOT_KEY = '5596598781:AAGhmyus12gfg_1dd4VhigcU2kuUyUss4vw'
